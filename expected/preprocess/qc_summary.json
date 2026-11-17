@@ -1,0 +1,13 @@
+{
+  "raw_records": 65,
+  "conditions_pass": 58,
+  "molecules": 38,
+  "pairs": 703,
+  "reasons": {
+    "condition:ion_mode,precursor_type": 5,
+    "condition:precursor_type": 2,
+    "duplicate_structure": 6,
+    "kept": 38,
+    "too_few_fragments": 14
+  }
+}

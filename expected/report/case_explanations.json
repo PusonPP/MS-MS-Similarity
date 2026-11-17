@@ -1,0 +1,12 @@
+[
+  {
+    "case": 1,
+    "rule": "largest_modified_gain",
+    "text": "Ciprofloxacin / Norfloxacin: Cosine 0.000, Modified cosine 0.976, Tanimoto 0.673. Matched peaks: 0 direct; 5 modified. A strong shifted candidate is m/z 314.1286 versus 302.1291. Their precursor losses are 18.0119 and 18.0114 Da. Similar losses can raise the modified score even when whole structures differ. Peak matches describe mass patterns; they do not prove a shared fragment structure."
+  },
+  {
+    "case": 2,
+    "rule": "largest_spectral_structure_gap",
+    "text": "Flumequine / Tramadol: Cosine 0.000, Modified cosine 0.964, Tanimoto 0.108. Matched peaks: 0 direct; 2 modified. A strong shifted candidate is m/z 244.0763 versus 246.1839. Their precursor losses are 18.0111 and 18.0119 Da. Similar losses can raise the modified score even when whole structures differ. Peak matches describe mass patterns; they do not prove a shared fragment structure."
+  }
+]

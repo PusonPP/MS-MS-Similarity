@@ -1,0 +1,28 @@
+[
+  {
+    "rule": "largest_modified_gain",
+    "id_a": "MSBNK-Athens_Univ-AU102602",
+    "id_b": "MSBNK-Athens_Univ-AU103202",
+    "cosine": 0.0,
+    "modified_cosine": 0.9761681898,
+    "cosine_matches": 0,
+    "modified_matches": 5,
+    "name_a": "Ciprofloxacin",
+    "name_b": "Norfloxacin",
+    "tanimoto": 0.6727272727272727,
+    "delta": 0.9761681898
+  },
+  {
+    "rule": "largest_spectral_structure_gap",
+    "id_a": "MSBNK-Athens_Univ-AU103002",
+    "id_b": "MSBNK-Athens_Univ-AU111702",
+    "cosine": 0.0,
+    "modified_cosine": 0.9642885761,
+    "cosine_matches": 0,
+    "modified_matches": 2,
+    "name_a": "Flumequine",
+    "name_b": "Tramadol",
+    "tanimoto": 0.10810810810810811,
+    "delta": 0.9642885761
+  }
+]

@@ -1,0 +1,332 @@
+{
+  "release": "2026.03",
+  "commit": "705afb7bccc3b2c42410a744eef73674716a60ef",
+  "selection": "First 65 sorted Athens_Univ filenames with exact COLLISION_ENERGY 20 eV; no score-based selection.",
+  "records": [
+    {
+      "file": "MSBNK-Athens_Univ-AU100802.txt",
+      "sha256": "041f860dd0bd3b1cf3757a736e0950c09bd682f7638af83e891f32390fc54862",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU100802.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU100902.txt",
+      "sha256": "c092d61fa159c54d761bc55e888246cce0cebd2971b3fd990f031a49ccda6bac",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU100902.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU101102.txt",
+      "sha256": "373ebd03bce665f3d45e81b5266e6c3db082b14056dd8ab592d4a89fddb4544f",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU101102.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU101502.txt",
+      "sha256": "f717697aa81da91212303d00d458a413136458616f3927e38a02c5b0ef056148",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU101502.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU101802.txt",
+      "sha256": "80c7b13cdd4e1369ed1caca7d7f62e8578320afbd1ebe07ec44c7a5b863b8193",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU101802.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU101852.txt",
+      "sha256": "f2ebac2a61d92a2e8d921154795fd1ecd84e770af407b05ffab22ca95a639ec9",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU101852.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU102302.txt",
+      "sha256": "22f9d0d9e37d6c88d04f5c83af35f6d61fcd26fb547f3e9f6085e853ec568edb",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU102302.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU102602.txt",
+      "sha256": "bb16f16ecf53866f2eedfebe34ad4aee3e25205e2cca529301cf1828e5af80a8",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU102602.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU102802.txt",
+      "sha256": "9f8a01fc397a549b0bf1c2cd31577eb570742fe919fbe7661f47522e96e4e4db",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU102802.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU102902.txt",
+      "sha256": "f1d74a4a74370aa1a9c84cd7669d9785ea5c46fe55b464546c37edb2a319cec5",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU102902.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU103002.txt",
+      "sha256": "84ddd4ef23938741440eb252fbbe4f05fdd8b1a2c1dd30a7e7cf2a4a0bba7c95",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU103002.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU103202.txt",
+      "sha256": "e47350c007d4516fb20180ab9595cd9bfe3210da3b23b737170a1ee103eb56c1",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU103202.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU103302.txt",
+      "sha256": "123cf32b0420e91dea5aa9f2566ed50c1a0d3afdd78ceba422db93fb23148e9a",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU103302.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU104502.txt",
+      "sha256": "2de3c3e583260b9c551cd4696a6bf06e0cbd54635c03e065aed8ae2ab7fd9916",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU104502.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU104508.txt",
+      "sha256": "63347190354ec64d1dea90d46db77b59ddc7d5e794d8c2b6f18af2790637fd71",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU104508.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU105002.txt",
+      "sha256": "1a03e5f49da4b5e915f5f13fb9d96afa5a14e9b7965970bb7d792e2e4099bebb",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU105002.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU105206.txt",
+      "sha256": "b796398512f7a7358045be8bf4b8e44426c442328be3c14158302e26001c3669",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU105206.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU105302.txt",
+      "sha256": "be31b42b36d5bd6689ccf407c960be959b7a500a496bb88727728700fcf5e8f8",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU105302.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU105308.txt",
+      "sha256": "66908c46666f21bb5b118526fd76594de8db1a34d27147fed6e1d592d20b20a9",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU105308.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU105402.txt",
+      "sha256": "e8c4f82230ebdbbf1bec9d1107f3a37162dfd2fd5ad80ec5b0e7aa6e9b398d76",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU105402.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU105408.txt",
+      "sha256": "49346120cb534189d5912215dcb087b749cda03f8da1767331b61635a4260d4d",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU105408.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU105502.txt",
+      "sha256": "95633676c468b6597492bd46759611ab1a71a08e71c66103a9021b12d45a5341",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU105502.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU105508.txt",
+      "sha256": "4b9f074f05a0a63307945094e5df0f547a66599482b3c5f6ee2dcc1dd964c90d",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU105508.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU105702.txt",
+      "sha256": "e4d0da14225096ab6666b4242128eb0cfcd6b484ffbf679c0a8edc49d3b02948",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU105702.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU105708.txt",
+      "sha256": "365d94d9e0641f0a988500c222a709dee07d7325a9c2b67b7e1d69246eb8b5db",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU105708.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU105802.txt",
+      "sha256": "8358811b79dfb70b0eaef418a87a99bb0ab1ac03d12e31dd9be35eb8c0f56e3f",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU105802.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU106002.txt",
+      "sha256": "dd90673c852d6d5a5925763fd05540d610c52fb0f8def4e4b6e3ef6670b13d11",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU106002.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU106202.txt",
+      "sha256": "31362f02ed2ff8e763448e709ac66188e9048b6a38c4ab7f3614fe02f7219ae3",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU106202.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU106302.txt",
+      "sha256": "371d9faa30e0cd20304beb7c6cc5ccab4d2eb2132942bc5cb0db0d68830c8aed",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU106302.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU106402.txt",
+      "sha256": "764f6685c1ac01ea957ce90f159537aed664baa9cf121f0718e7e86bbf44fffb",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU106402.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU106502.txt",
+      "sha256": "0142b76c66a94ba7598d8ae2391e5d6e1126eb2960222ffe0243166a1403c6e6",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU106502.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU106752.txt",
+      "sha256": "86d07637b4a63e986d3c99eecb4de8c21ca258bd42c4144b174918d87c7d5b68",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU106752.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU107602.txt",
+      "sha256": "493fcf5b29d008c1761e0551f7750a1e0a5f43f22ebd88d6f5f24a437515c37c",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU107602.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU107608.txt",
+      "sha256": "449dc8dea6dc6761361e7d71fa4b85bce92c5203f514e2d35e063ec49da7745a",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU107608.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU107631.txt",
+      "sha256": "fa54aad984a541d5d94701764d5c3f29583fedc95feb9b64c6b8d2abdfd35862",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU107631.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU107702.txt",
+      "sha256": "df1f65956cd3fe065e36227e867b00526d187a95ed0dbcbfec7f4b977b75b10e",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU107702.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU107731.txt",
+      "sha256": "4634e76632a2519d6ff876551e8cb96fa88a86b1eaa1b354ee508c51234e5d34",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU107731.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU107802.txt",
+      "sha256": "3d1ea8689ffe5db6d954bf111abac85ba90b8a077228bdf956fc49817924580a",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU107802.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU108202.txt",
+      "sha256": "4369aa77a1135a9c91b4ff64aa3327635d6fe025aef801e7aa291fd4c1d00607",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU108202.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU108302.txt",
+      "sha256": "ec53e87b0701044dad44fa1744776fde269310e5172f3d70734da593d543a70f",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU108302.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU108402.txt",
+      "sha256": "928ed05cd30ed10e34799a5b261e1918c241fa3f038158b63bfd20de35a819bb",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU108402.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU108452.txt",
+      "sha256": "c4c3e4e2a7cc2c5841c322b6c842055fb982f8e47a9c9bc253aaa0aa22e7804c",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU108452.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU108702.txt",
+      "sha256": "1f72dfc9d24d2ea14f73b1e90064ced7b15b4bf06bc53f2dd9d9dd5b4f81b717",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU108702.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU109302.txt",
+      "sha256": "300d8fbd0c58a3704d9d6d089c8611d2936c36699233858b155e86c9a759a3dc",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU109302.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU110102.txt",
+      "sha256": "c223f04aa3cab30a2df552b8d1cb327539b4e1081844eb6f3f4f3d55ddfced6c",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU110102.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU110602.txt",
+      "sha256": "5314f26a240ff8418010c8995072c524705c86a70473d62bbfafd8ad7d914c2c",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU110602.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU110702.txt",
+      "sha256": "08e7bb86d98b0c125624932f753b4a893c02497ae2525899ca22fe938d983533",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU110702.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU110802.txt",
+      "sha256": "af06827700f38e37bb078015199b1e814556c41708a9293fab31706ee56115e6",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU110802.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU111102.txt",
+      "sha256": "06a392e42e5da1877b2c5520a6d9bfa1295f0492e494c7dc78849a8009926efe",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU111102.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU111206.txt",
+      "sha256": "0c176f997eae26e9209dd4b8ec07917fd384ce274a4204532f695ebc0687b746",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU111206.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU111208.txt",
+      "sha256": "f4f75242fdd9ab1109da77306662e3b5c813d9a7e2aeadbb91d4254dde0715b1",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU111208.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU111252.txt",
+      "sha256": "0cfd98aae4c26bcf9121b13db4d1d59cf1c85ff2da03f1acf67ece6310e8c8ae",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU111252.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU111302.txt",
+      "sha256": "b33d77b26cb713c0e3e6fdc8e36febfd83d57408c6c8b01541d1e5f0de86070f",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU111302.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU111402.txt",
+      "sha256": "b765e83d7423eead06f651f3f34c76c945f7e554ddbdc8829383cb64e52ad75d",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU111402.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU111502.txt",
+      "sha256": "3d5938d5637254e2952bda5242f4d93032ead10c79265efa9d7421277fb4263a",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU111502.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU111702.txt",
+      "sha256": "0a2633577a59dfe9d46e5fe877dd9ff16230ef00a0e8a2f603de86afc2ce266e",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU111702.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU112002.txt",
+      "sha256": "b173b07bb5cb7aae288eb57599e3ed2d2ff8c208bee15bec5519c9fe7bdf5880",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU112002.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU112102.txt",
+      "sha256": "833a16ea576edf7161b4f2c924fc03a12090b08eb39c5edc67fd97b3dcf1569b",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU112102.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU112202.txt",
+      "sha256": "6b453bf766b3e9cec01cf26cae5dee3f6bec435aa03daae819105bb189b408ba",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU112202.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU112702.txt",
+      "sha256": "fab16eed67ddf59e9a0add1e5bd6d655a2333ba2b63aae826d16692a7dfb0083",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU112702.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU112802.txt",
+      "sha256": "d51f8f765f1b7c3bae138ad7822c66925809b569cc37967f22e9198c8d58bedd",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU112802.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU112902.txt",
+      "sha256": "2feb443df96906440ee48037678350a853923f3b5cb0e676f6f7b12ccf2e6e92",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU112902.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU112908.txt",
+      "sha256": "a61b60a1c428ba8cc93ed466d1d8d4d98ea4968e2ab0d0d4793c669d59aa1ebc",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU112908.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU112952.txt",
+      "sha256": "a0c3cab59579ebfe8d88550058989891b21253eeb230c0bd410c18d36b27437a",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU112952.txt"
+    },
+    {
+      "file": "MSBNK-Athens_Univ-AU113602.txt",
+      "sha256": "ba399c960d72e39c05ac14a473b68743644e592a735779266185980d267fdae0",
+      "url": "https://raw.githubusercontent.com/MassBank/MassBank-data/705afb7bccc3b2c42410a744eef73674716a60ef/Athens_Univ/MSBNK-Athens_Univ-AU113602.txt"
+    }
+  ]
+}

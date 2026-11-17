@@ -1,0 +1,24 @@
+{
+  "pairs": 703,
+  "scores": {
+    "cosine": {
+      "mean": 0.017012907828041764,
+      "median": 0.0,
+      "pearson_r": 0.44603445984400325,
+      "spearman_rho": 0.08620178651877185,
+      "high_spectrum_low_structure": 0,
+      "low_spectrum_high_structure": 1
+    },
+    "modified_cosine": {
+      "mean": 0.06067805596572504,
+      "median": 0.0,
+      "pearson_r": 0.6786918336046693,
+      "spearman_rho": 0.22211098163513066,
+      "high_spectrum_low_structure": 6,
+      "low_spectrum_high_structure": 0
+    }
+  },
+  "mean_delta": 0.04366514813768327,
+  "increased_pairs": 222,
+  "decreased_pairs": 0
+}

@@ -1,0 +1,20 @@
+{
+  "conditions": {
+    "instrument": "Bruker maXis Impact",
+    "instrument_type": "LC-ESI-QTOF",
+    "ms_type": "MS2",
+    "ion_mode": "POSITIVE",
+    "precursor_type": "[M+H]+",
+    "collision_energy": "20 eV"
+  },
+  "min_mz": 10.0,
+  "precursor_exclusion_da": 1.5,
+  "min_relative_intensity": 0.01,
+  "min_peaks": 5,
+  "tolerance_da": 0.02,
+  "mz_power": 0.0,
+  "intensity_power": 1.0,
+  "morgan_radius": 2,
+  "morgan_bits": 2048,
+  "include_chirality": false
+}
