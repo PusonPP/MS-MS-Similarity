@@ -107,6 +107,16 @@ docker run --rm -v "$PWD:/work" -w /work biof501-msms:1.0 python scripts/test_an
 
 For a fresh check, use a clean copy of the project and follow Setup, Run, and Check.
 
+## Generative AI use
+
+I used OpenAI Codex in ChatGPT for these tasks:
+
+- Planning the project, defining the MassBank sample, and designing the workflow.
+- Writing and debugging the Nextflow and Python code, setting up Docker, and running reproducibility checks.
+- Interpreting the computed results and drafting or revising the report, README, slides, and presenter notes.
+
+The workflow computes the scores, tables, and figures from the MassBank records. The included reference outputs and run traces show the results.
+
 ## Files
 
 - `data/`: raw records, source URLs, hashes, and attribution.
